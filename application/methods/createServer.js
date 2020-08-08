@@ -31,7 +31,7 @@ function makeData(Version, NameOfServer, OwnerID, NestID, EggID, DockerImage,
 	return {
 		'name': NameOfServer,
 		'user': OwnerID,
-		'description': 'A free server. Powered by https://swithhosting.xyz/',
+		'description': 'A free server. Powered by https://veniturehosting.cf/',
 		'egg': EggID,
 		'pack': NestID,
 		'docker_image': DockerImage,
